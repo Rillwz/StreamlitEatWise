@@ -298,4 +298,4 @@ with tab4:
         else:
             st.info("Please submit the form to see predictions")
     else:
-        st.warning("Please train a model in the 'Regression Model' tab first")
+        st.warning("Please train a model in the 'Regression Model' tab firs")
